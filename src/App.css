@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    flex-wrap:wrap ;
+}
+.shopping-cart{
+    justify-content: space-between;
+    background-color: aquamarine;
+    padding: 20px 50px;
+}
+.product-item{
+    padding: 20px;
+}
